@@ -9,35 +9,4 @@ rhidzkhan.ahmad99@gmail.com
 
 
 
-what is nextjs
-
-- its a react framework for building fullstack web-app
-- its a react framework
-- include routing, optimized rendering, data fetching, bundling, compiling, and more
-
-
-Routing
-- next js are in filebaserouting
-
-API routes
-- you can build api in nextjs
-
-Rendering
-- supports server and client side 
-
-Data fetching 
-- stream line data fetching 
-
-Styling
-- support tailwind 
-
-Optimization
-- font, scripts
-
-Dev and prod build system
-- 
-
-React
-
-- its not feasible to create a fully-featured application ready for production
-- react is a library for view 
+what is npx
